@@ -4,16 +4,10 @@
  
  
  
- 欢迎使用 oj8k一键 酸酸乳 v2ray op BBR综合脚本
- 
- 本脚本经网络搜集修改整合而成
+Welcome to the oj8k One-Click SSR (ShadowsocksR), V2Ray, OpenVPN, and BBR Integrated Script
 
- 只是为了方便使用（如有侵权，请联系我删除 邮箱：6578093@Gmail.com）
- 
+This script has been collected, modified, and integrated from various sources across the internet.
 
-    
-   
-     bash <(curl -s -L www.sswa.ml//oj8k)
- 
+It is provided solely for convenience. If there is any infringement, please contact me for removal. Email: 6578093@gmail.com
  
  
